@@ -44,8 +44,8 @@ O app pode ser instalado diretamente no seu celular Android através do arquivo 
 4. Toque em **Instalar**
 5. Pronto! Agora é só abrir e cozinhar 👨‍🍳🔥
 
-<a href="COLOQUE_AQUI_O_LINK_DIRETO_DO_APK" download>
-  <img src="https://img.shields.io/badge/Baixar%20APK-Android-green?style=for-the-badge&logo=android" />
+<a href="https://github.com/joao-robertoo/projeto-chef-ia/releases/download/v1.0.0/chef-ia.apk" download>
+  <img src="https://img.shields.io/badge/Baixar%20APK-Android-green?style=for-the-badge&logo=android&logoColor=white" />
 </a>
 
 ---
