@@ -64,7 +64,7 @@ O app pode ser instalado diretamente no seu celular Android através do arquivo 
 </td>
 <td align="center">
 
-<img src="https://raw.githubusercontent.com/joao-robertoo/projeto-app-chef-ia/92a752a00ccf2da332cdf10727287efd89ead0e0/assets/qrcode/qrcode.svg" width="250"/><br><br>
+<img src="https://raw.githubusercontent.com/joao-robertoo/projeto-app-chef-ia/9ae56337190baace67feea56863be72c2724551a/assets/qrcode/qrcode.svg" width="250"/><br><br>
 
 <a href="https://github.com/joao-robertoo/projeto-chef-ia/releases/download/v1.0.0/chef-ia.apk" download>
   <img src="https://img.shields.io/badge/Baixar%20APK-Android-green?style=for-the-badge&logo=android&logoColor=white" />
@@ -96,7 +96,7 @@ Por limitações da Apple, não é possível instalar o app diretamente por arqu
 </td>
 <td align="center">
 
-<img src="https://raw.githubusercontent.com/joao-robertoo/projeto-app-dev-clima/0f790afd6bb47d52bdd0e5b6af441a2f1ad7a50c/assets/qrcode/qrcode.svg" width="450"/><br><br>
+<img src="https://raw.githubusercontent.com/joao-robertoo/projeto-app-chef-ia/9ae56337190baace67feea56863be72c2724551a/assets/qrcode/qrcode.svg" width="450"/><br><br>
 
 <a href="exp+://expo-development-client/?url=https://u.expo.dev/f9415e89-0ed0-4016-a980-e4c78c2a7d0f/group/147206ef-6c15-4d64-ac6a-d7a09dd0fff1">
   <img src="https://img.shields.io/badge/iOS-Abrir%20no%20Expo%20Dev%20Client-000?logo=apple"/>
@@ -145,6 +145,7 @@ App exibe com instruções
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Axios](https://img.shields.io/badge/Axios-HTTP%20Client-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 
 ### 🌐 Web (Simulador)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
