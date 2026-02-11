@@ -17,7 +17,7 @@ Nada de ficar pesquisando receita e descobrindo que falta metade das coisas. Aqu
   </tr>
   <tr>
     <td>
-      <img src="" width="250"/>
+      <img src="https://github.com/joao-robertoo/projeto-app-chef-ia/blob/main/assets/demo/chef-ia.gif?raw=true" width="250"/>
     </td>
     <td>
       <img src="https://github.com/joao-robertoo/projeto-chef-ia/blob/main/assets/mobile.gif?raw=true" width="250"/>
