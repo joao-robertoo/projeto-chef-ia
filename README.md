@@ -65,6 +65,39 @@ O app pode ser instalado diretamente no seu celular Android através do arquivo 
 
 ---
 
+## 📲 Como baixar o aplicativo (Android)
+
+<table>
+<tr>
+<td>
+
+📱 **Instalação direta via APK**
+
+O app pode ser instalado diretamente no seu celular Android através do arquivo `.apk`.
+
+**Passo a passo:**
+
+1️⃣ Baixe o arquivo do aplicativo clicando no botão ao lado  
+2️⃣ Ative a opção **"Permitir instalação de fontes desconhecidas"** no seu celular  
+3️⃣ Abra o arquivo baixado  
+4️⃣ Toque em **Instalar**  
+5️⃣ Pronto! Agora é só abrir e usar 🚀  
+
+</td>
+<td align="center">
+
+<img src="https://raw.githubusercontent.com/joao-robertoo/projeto-app-dev-clima/0f790afd6bb47d52bdd0e5b6af441a2f1ad7a50c/assets/qrcode/qrcode.svg" width="200"/><br><br>
+
+<a href="https://github.com/joao-robertoo/projeto-app-dev-clima/releases/download/v1.0.0/dev-clima.apk" download>
+  <img src="https://img.shields.io/badge/Baixar%20APK-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
 ## 🍏 Como testar no iPhone (iOS)
 
 | 📱 Teste pelo Expo Go | 📷 QR Code do Projeto |
