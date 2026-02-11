@@ -40,28 +40,6 @@ Você pode testar a experiência completa do app diretamente pelo navegador atra
 - ✅ Responsivo (funciona em qualquer dispositivo)
 - ✅ Sem necessidade de instalação
 
----
-
-## 📲 Como baixar o aplicativo (Android)
-
-O app pode ser instalado diretamente no seu celular Android através do arquivo `.apk`.
-
-### 📋 Passo a passo:
-
-1️⃣ Baixe o arquivo do aplicativo clicando no botão abaixo  
-2️⃣ Ative a opção **"Permitir instalação de fontes desconhecidas"** no seu celular  
-3️⃣ Abra o arquivo baixado  
-4️⃣ Toque em **Instalar**  
-5️⃣ Pronto! Agora é só abrir e cozinhar 👨‍🍳🔥
-
-<a href="https://github.com/joao-robertoo/projeto-chef-ia/releases/download/v1.0.0/chef-ia.apk" download>
-  <img src="https://img.shields.io/badge/Baixar%20APK-Android-green?style=for-the-badge&logo=android&logoColor=white" />
-</a>
-
-**📊 Compatibilidade:**
-- Android 5.0 (Lollipop) ou superior
-- Tamanho: ~45 MB
-- Versão: 1.0.0
 
 ---
 
@@ -86,10 +64,10 @@ O app pode ser instalado diretamente no seu celular Android através do arquivo 
 </td>
 <td align="center">
 
-<img src="https://raw.githubusercontent.com/joao-robertoo/projeto-app-dev-clima/0f790afd6bb47d52bdd0e5b6af441a2f1ad7a50c/assets/qrcode/qrcode.svg" width="200"/><br><br>
+<img src="https://raw.githubusercontent.com/joao-robertoo/projeto-app-chef-ia/92a752a00ccf2da332cdf10727287efd89ead0e0/assets/qrcode/qrcode.svg" width="250"/><br><br>
 
-<a href="https://github.com/joao-robertoo/projeto-app-dev-clima/releases/download/v1.0.0/dev-clima.apk" download>
-  <img src="https://img.shields.io/badge/Baixar%20APK-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+<a href="https://github.com/joao-robertoo/projeto-chef-ia/releases/download/v1.0.0/chef-ia.apk" download>
+  <img src="https://img.shields.io/badge/Baixar%20APK-Android-green?style=for-the-badge&logo=android&logoColor=white" />
 </a>
 
 </td>
@@ -100,9 +78,33 @@ O app pode ser instalado diretamente no seu celular Android através do arquivo 
 
 ## 🍏 Como testar no iPhone (iOS)
 
-| 📱 Teste pelo Expo Go | 📷 QR Code do Projeto |
-| --- | --- |
-| Por limitações da Apple, não é possível instalar o app diretamente por arquivo como no Android. Mas você pode testar facilmente usando o **Expo Go**. <br><br> **🔧 Passo a passo:** <br><br> 1️⃣ Baixe o app **Expo Go** na App Store <br> 2️⃣ Abra a câmera do seu iPhone <br> 3️⃣ Escaneie o QR Code ao lado <br> 4️⃣ O app abrirá automaticamente no Expo Go <br><br> **💡 Dica:** Se preferir, você também pode usar o [Simulador Web](https://simulador-chef-ia.vercel.app/) direto do Safari! | <img src="https://github.com/joao-robertoo/projeto-chef-ia/blob/main/assets/qr-code.png?raw=true" width="450"/> |
+<table>
+<tr>
+<td>
+
+📱 **Teste pelo Expo Go**
+
+Por limitações da Apple, não é possível instalar o app diretamente por arquivo como no Android. Mas você pode testar facilmente usando o **Expo Go**.
+
+**Passo a passo:**
+
+1️⃣ Baixe o app **Expo Go** na App Store  
+2️⃣ Abra a câmera do iPhone  
+3️⃣ Escaneie o QR Code ao lado  
+4️⃣ O app abrirá automaticamente no Expo Go  
+
+</td>
+<td align="center">
+
+<img src="https://raw.githubusercontent.com/joao-robertoo/projeto-app-dev-clima/0f790afd6bb47d52bdd0e5b6af441a2f1ad7a50c/assets/qrcode/qrcode.svg" width="450"/><br><br>
+
+<a href="exp+://expo-development-client/?url=https://u.expo.dev/f9415e89-0ed0-4016-a980-e4c78c2a7d0f/group/147206ef-6c15-4d64-ac6a-d7a09dd0fff1">
+  <img src="https://img.shields.io/badge/iOS-Abrir%20no%20Expo%20Dev%20Client-000?logo=apple"/>
+</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -382,9 +384,9 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ### 📫 Entre em contato:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joaorobertoo)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joao-robertoo)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portifolio-nu-ruddy-64.vercel.app/)
 
 ---
 
