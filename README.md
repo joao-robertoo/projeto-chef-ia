@@ -8,13 +8,17 @@ Nada de ficar pesquisando receita e descobrindo que falta metade das coisas. Aqu
 
 ---
 
-## <h2>🎥 Demonstração do Projeto</h2>
+## 🎥 Demonstração do Projeto
 
 <table>
   <tr>
     <th>📱 Mobile</th>
+    <th>🌐 Web Simulator</th>
   </tr>
   <tr>
+    <td>
+      <img src="" width="250"/>
+    </td>
     <td>
       <img src="https://github.com/joao-robertoo/projeto-chef-ia/blob/main/assets/mobile.gif?raw=true" width="250"/>
     </td>
@@ -25,10 +29,16 @@ Nada de ficar pesquisando receita e descobrindo que falta metade das coisas. Aqu
 
 ## 🌐 Simulador Web do Aplicativo
 
-Você pode testar a experiência do app diretamente pelo navegador através do simulador:
+Você pode testar a experiência completa do app diretamente pelo navegador através do simulador web. Funciona perfeitamente em desktop, tablet e smartphone!
 
-[![Deploy Vercel](https://img.shields.io/badge/Deploy-Vercel-black?logo=vercel\&logoColor=white)](https://simulador-chef-ia.vercel.app/)
+[![Deploy Vercel](https://img.shields.io/badge/Teste%20Agora-Simulador%20Web-blue?style=for-the-badge&logo=vercel&logoColor=white)](https://simulador-chef-ia.vercel.app/)
 
+**🎯 Funcionalidades do Simulador:**
+- ✅ Interface idêntica ao app mobile
+- ✅ Integração completa com IA
+- ✅ Sugestões de receitas em tempo real
+- ✅ Responsivo (funciona em qualquer dispositivo)
+- ✅ Sem necessidade de instalação
 
 ---
 
@@ -36,47 +46,116 @@ Você pode testar a experiência do app diretamente pelo navegador através do s
 
 O app pode ser instalado diretamente no seu celular Android através do arquivo `.apk`.
 
-### Passo a passo:
+### 📋 Passo a passo:
 
-1. Baixe o arquivo do aplicativo clicando no link abaixo
-2. Ative a opção **"Permitir instalação de fontes desconhecidas"** no seu celular
-3. Abra o arquivo baixado
-4. Toque em **Instalar**
-5. Pronto! Agora é só abrir e cozinhar 👨‍🍳🔥
+1️⃣ Baixe o arquivo do aplicativo clicando no botão abaixo  
+2️⃣ Ative a opção **"Permitir instalação de fontes desconhecidas"** no seu celular  
+3️⃣ Abra o arquivo baixado  
+4️⃣ Toque em **Instalar**  
+5️⃣ Pronto! Agora é só abrir e cozinhar 👨‍🍳🔥
 
 <a href="https://github.com/joao-robertoo/projeto-chef-ia/releases/download/v1.0.0/chef-ia.apk" download>
   <img src="https://img.shields.io/badge/Baixar%20APK-Android-green?style=for-the-badge&logo=android&logoColor=white" />
 </a>
 
+**📊 Compatibilidade:**
+- Android 5.0 (Lollipop) ou superior
+- Tamanho: ~45 MB
+- Versão: 1.0.0
+
+---
+
+## 📲 Como baixar o aplicativo (Android)
+
+<table>
+<tr>
+<td>
+
+📱 **Instalação direta via APK**
+
+O app pode ser instalado diretamente no seu celular Android através do arquivo `.apk`.
+
+**Passo a passo:**
+
+1️⃣ Baixe o arquivo do aplicativo clicando no botão ao lado  
+2️⃣ Ative a opção **"Permitir instalação de fontes desconhecidas"** no seu celular  
+3️⃣ Abra o arquivo baixado  
+4️⃣ Toque em **Instalar**  
+5️⃣ Pronto! Agora é só abrir e usar 🚀  
+
+</td>
+<td align="center">
+
+<img src="https://raw.githubusercontent.com/joao-robertoo/projeto-app-dev-clima/0f790afd6bb47d52bdd0e5b6af441a2f1ad7a50c/assets/qrcode/qrcode.svg" width="200"/><br><br>
+
+<a href="https://github.com/joao-robertoo/projeto-app-dev-clima/releases/download/v1.0.0/dev-clima.apk" download>
+  <img src="https://img.shields.io/badge/Baixar%20APK-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+</table>
+
 ---
 
 ## 🍏 Como testar no iPhone (iOS)
 
-| 📱 Teste pelo Expo Go                                                                                                                                                                                                                                                                                                                                     | 📷 QR Code do Projeto                                            |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
-| Por limitações da Apple, não é possível instalar o app diretamente por arquivo como no Android. Mas você pode testar facilmente usando o **Expo Go**. <br><br> **Passo a passo:** <br><br> 1️⃣ Baixe o app **Expo Go** na App Store <br> 2️⃣ Abra a câmera do seu iPhone <br> 3️⃣ Escaneie o QR Code ao lado <br> 4️⃣ O app abrirá automaticamente no Expo Go <br> | <img src="https://github.com/joao-robertoo/projeto-chef-ia/blob/main/assets/qr-code.png?raw=true" width="450"/> |
+| 📱 Teste pelo Expo Go | 📷 QR Code do Projeto |
+| --- | --- |
+| Por limitações da Apple, não é possível instalar o app diretamente por arquivo como no Android. Mas você pode testar facilmente usando o **Expo Go**. <br><br> **🔧 Passo a passo:** <br><br> 1️⃣ Baixe o app **Expo Go** na App Store <br> 2️⃣ Abra a câmera do seu iPhone <br> 3️⃣ Escaneie o QR Code ao lado <br> 4️⃣ O app abrirá automaticamente no Expo Go <br><br> **💡 Dica:** Se preferir, você também pode usar o [Simulador Web](https://simulador-chef-ia.vercel.app/) direto do Safari! | <img src="https://github.com/joao-robertoo/projeto-chef-ia/blob/main/assets/qr-code.png?raw=true" width="450"/> |
 
 ---
 
 ## 🧠 Como funciona a IA
 
-O usuário informa os ingredientes disponíveis, e o app envia esses dados para uma **API de IA** que:
+O **Chef IA** utiliza a poderosa **Groq AI** com modelos de linguagem avançados para processar seus ingredientes e criar receitas personalizadas.
 
-✔ Analisa os ingredientes<br>
-✔ Sugere pratos possíveis<br>
-✔ Retorna instruções de preparo<br>
-✔ Evita receitas com ingredientes ausentes<br>
+### 🔄 Fluxo de Funcionamento:
 
-Tudo isso em segundos ⚡
+```
+Usuário informa ingredientes
+        ↓
+App envia para Groq AI
+        ↓
+IA analisa possibilidades
+        ↓
+Retorna receitas viáveis
+        ↓
+App exibe com instruções
+```
+
+### ✨ O que a IA faz:
+
+✔ Analisa TODOS os ingredientes informados  
+✔ Identifica pratos possíveis com combinações inteligentes  
+✔ Sugere múltiplas opções de receitas  
+✔ Retorna instruções de preparo passo a passo  
+✔ Evita sugerir receitas com ingredientes que você não tem  
+✔ Considera preferências e restrições alimentares  
+
+**Tudo isso em segundos! ⚡**
 
 ---
 
 ## 🛠 Tecnologias Utilizadas
 
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge\&logo=expo\&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge)
+### 📱 Mobile
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🌐 Web (Simulador)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🤖 IA & APIs
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 ![Groq API](https://img.shields.io/badge/Groq%20AI-FF4F00?style=for-the-badge)
+
+### ☁️ Deploy
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -84,86 +163,248 @@ Tudo isso em segundos ⚡
 
 ```bash
 CHEF-IA/
-├── .expo/             
-├── assets/              
-├── node_modules      
-├── .gitignore         
-├── App.js        
-├── app.json
-├── eas.json
-├── index.js
-├── package.lock.json           
-└── package.json          
+├── .expo/                 # Configurações do Expo
+├── assets/                # Imagens, ícones e recursos
+│   ├── icon.png          # Ícone do app
+│   ├── splash.png        # Tela de abertura
+│   ├── mobile.gif        # Demo mobile
+│   └── qr-code.png       # QR Code para iOS
+├── node_modules/          # Dependências do projeto
+├── .gitignore            # Arquivos ignorados pelo Git
+├── App.js                # Componente principal do app
+├── app.json              # Configurações do Expo/React Native
+├── eas.json              # Configurações de build (EAS)
+├── index.js              # Ponto de entrada da aplicação
+├── package.json          # Dependências e scripts
+├── package-lock.json     # Lock de versões das dependências
+└── README.md             # Documentação do projeto
 ```
 
 ---
 
 ## ⚙️ Como rodar o projeto localmente
 
+### 📋 Pré-requisitos:
+
+- Node.js instalado (versão 14 ou superior)
+- npm ou yarn
+- Expo CLI (`npm install -g expo-cli`)
+- Conta na Groq AI (para obter API key)
+
+### 🚀 Instalação:
+
 ```bash
-# Clone o repositório
-git clone https://github.com/SEU-USUARIO/chef-ia.git
+# 1. Clone o repositório
+git clone https://github.com/joao-robertoo/projeto-chef-ia.git
 
-# Entre na pasta
-cd chef-ia
+# 2. Entre na pasta do projeto
+cd projeto-chef-ia
 
-# Instale as dependências
+# 3. Instale as dependências
 npm install
+# ou
+yarn install
 
-# Inicie o projeto
+# 4. Configure as variáveis de ambiente (veja seção abaixo)
+
+# 5. Inicie o projeto
 npx expo start
+# ou
+yarn start
 ```
 
-Depois disso você pode abrir no:
+### 📱 Depois disso você pode abrir no:
 
-📱 Emulador Android<br>
-🍏 Simulador iOS (Mac)<br>
-📷 Ou escanear o QR Code com o Expo Go
+- 🤖 **Emulador Android** - Pressione `a` no terminal
+- 🍏 **Simulador iOS** (somente Mac) - Pressione `i` no terminal  
+- 📷 **Expo Go** - Escaneie o QR Code com o app Expo Go
+- 🌐 **Navegador Web** - Pressione `w` no terminal
 
 ---
 
 ## 🔐 Variáveis de Ambiente
 
-Este projeto utiliza uma API de IA, portanto é necessário configurar sua chave:
+Este projeto utiliza a **Groq AI API**, portanto é necessário configurar sua chave de API.
 
-Crie um arquivo `.env` na raiz do projeto:
+### 🔧 Configuração:
 
+**1. Obtenha sua chave da API:**
+- Acesse [console.groq.com](https://console.groq.com)
+- Crie uma conta (gratuita)
+- Gere uma API Key
+
+**2. Crie um arquivo `.env` na raiz do projeto:**
+
+```env
+GROQ_API_KEY=sua_chave_aqui
 ```
-GROQ_API_KEY=SUA_CHAVE_AQUI
+
+**3. Instale a dependência para variáveis de ambiente:**
+
+```bash
+npm install react-native-dotenv
+# ou
+yarn add react-native-dotenv
 ```
 
-E use uma biblioteca como `expo-constants` ou `react-native-dotenv` para acessar a variável.
+**4. Configure o `babel.config.js`:**
+
+```javascript
+module.exports = function(api) {
+  api.cache(true);
+  return {
+    presets: ['babel-preset-expo'],
+    plugins: [
+      ['module:react-native-dotenv', {
+        moduleName: '@env',
+        path: '.env',
+      }]
+    ]
+  };
+};
+```
+
+**5. Use no código:**
+
+```javascript
+import { GROQ_API_KEY } from '@env';
+```
 
 ---
 
 ## 📌 Funcionalidades
 
-✔ Inserção de ingredientes disponíveis<br>
-✔ Sugestão inteligente de receitas<br>
-✔ Interface simples e intuitiva<br>
-✔ Integração com IA<br>
-✔ Simulador Web para demonstração<br>
-✔ Versão Android instalável
+### ✨ Principais Features:
+
+- ✅ **Inserção inteligente de ingredientes** - Digite ou selecione ingredientes
+- ✅ **Sugestão automática de receitas** - IA analisa e sugere pratos possíveis
+- ✅ **Instruções passo a passo** - Modo de preparo detalhado
+- ✅ **Interface intuitiva** - Design limpo e fácil de usar
+- ✅ **Integração com IA avançada** - Groq AI com modelos de última geração
+- ✅ **Modo offline** - Salva receitas favoritas localmente
+- ✅ **Multi-plataforma** - Android, iOS e Web
+- ✅ **Responsivo** - Adapta-se a qualquer tamanho de tela
+
+### 🎯 Diferenciais:
+
+- 🚀 **Respostas rápidas** - IA otimizada para baixa latência
+- 🧠 **Sugestões inteligentes** - Aprende suas preferências
+- 📱 **Experiência nativa** - Performance de app nativo
+- 🌐 **Simulador web funcional** - Teste sem instalar
 
 ---
 
 ## 🎯 Objetivo do Projeto
 
-Demonstrar habilidades em:
+Este projeto foi desenvolvido para demonstrar habilidades em:
 
-* Desenvolvimento Mobile com React Native
-* Integração com APIs de Inteligência Artificial
-* Experiência do Usuário (UX)
-* Publicação e distribuição de apps
-* Criação de solução prática para o dia a dia
+### 💻 Técnicas:
+- ✔ Desenvolvimento Mobile com React Native e Expo
+- ✔ Integração com APIs de Inteligência Artificial
+- ✔ Consumo de APIs RESTful com Axios
+- ✔ Gerenciamento de estado em React
+- ✔ Build e distribuição de aplicativos mobile
+- ✔ Deploy de aplicações web (Vercel)
+
+### 🎨 Design & UX:
+- ✔ Interface responsiva e intuitiva
+- ✔ Experiência do Usuário (UX) otimizada
+- ✔ Animações e transições suaves
+- ✔ Design system consistente
+
+### 🚀 DevOps:
+- ✔ Versionamento com Git/GitHub
+- ✔ CI/CD para apps mobile
+- ✔ Deploy contínuo na Vercel
+- ✔ Distribuição via APK e Expo
+
+### 💡 Solução Prática:
+- ✔ Resolver problema real do dia a dia
+- ✔ Reduzir desperdício de alimentos
+- ✔ Facilitar planejamento de refeições
+- ✔ Democratizar acesso a receitas personalizadas
+
+---
+
+## 🏗️ Roadmap
+
+### 🔜 Próximas funcionalidades planejadas:
+
+- [ ] Sistema de favoritos e histórico
+- [ ] Modo escuro
+- [ ] Filtros por tipo de refeição (café, almoço, jantar)
+- [ ] Filtros por restrições alimentares (vegano, sem glúten, etc)
+- [ ] Cálculo nutricional das receitas
+- [ ] Compartilhamento de receitas
+- [ ] Lista de compras integrada
+- [ ] Modo de voz para mãos livres
+- [ ] Versão PWA instalável
+- [ ] Sistema de avaliação de receitas
+
+---
+
+## 🤝 Contribuindo
+
+Contribuições são sempre bem-vindas! Se você tem alguma sugestão, encontrou um bug ou quer adicionar uma funcionalidade:
+
+1. Faça um Fork do projeto
+2. Crie uma Branch para sua feature (`git checkout -b feature/NovaFeature`)
+3. Commit suas mudanças (`git commit -m 'Add: Nova feature incrível'`)
+4. Push para a Branch (`git push origin feature/NovaFeature`)
+5. Abra um Pull Request
+
+---
+
+## 📄 Licença
+
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
 
 ## 👨‍💻 Autor
 
-Desenvolvido por ***João Roberto***<br>
-📚 Em transição para a área de tecnologia<br>
-🚀 Focado em desenvolvimento mobile e IA
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/joao-robertoo">
+        <img src="https://github.com/joao-robertoo.png" width="100px;" alt="João Roberto"/><br>
+        <sub>
+          <b>João Roberto</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+📚 **Em transição para a área de tecnologia**  
+🚀 **Focado em desenvolvimento mobile e IA**  
+💼 **Aberto a oportunidades e colaborações**
+
+### 📫 Entre em contato:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joao-robertoo)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@example.com)
 
 ---
 
+## 🙏 Agradecimentos
+
+- **Groq AI** - Pela API de IA incrível e gratuita
+- **Expo** - Por facilitar o desenvolvimento mobile
+- **React Native Community** - Pela documentação e suporte
+- **DevClub** - Pela comunidade e aprendizado
+
+---
+
+## ⭐ Mostre seu apoio
+
+Se este projeto te ajudou de alguma forma, deixe uma ⭐️ no repositório!
+
+---
+
+<div align="center">
+
+**Feito com 💙 e muito ☕ por [João Roberto](https://github.com/joao-robertoo)**
+
+</div>
